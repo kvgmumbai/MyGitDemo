@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-10-07T10:40:30 EDT" name="Default suite" finished-at="2021-10-07T10:40:31 EDT" duration-ms="1349">
+    <groups>
+    </groups>
+    <test started-at="2021-10-07T10:40:30 EDT" name="Default test" finished-at="2021-10-07T10:40:31 EDT" duration-ms="1349">
+      <class name="Test02_POST">
+        <test-method signature="test_1_post()[pri:0, instance:Test02_POST@15aab8c6]" started-at="2021-10-07T10:40:30 EDT" name="test_1_post" finished-at="2021-10-07T10:40:30 EDT" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_1_post -->
+        <test-method signature="test_2_post()[pri:0, instance:Test02_POST@15aab8c6]" started-at="2021-10-07T10:40:30 EDT" name="test_2_post" finished-at="2021-10-07T10:40:30 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_2_post -->
+        <test-method signature="test_3_post()[pri:0, instance:Test02_POST@15aab8c6]" started-at="2021-10-07T10:40:30 EDT" name="test_3_post" finished-at="2021-10-07T10:40:31 EDT" duration-ms="1321" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_3_post -->
+      </class> <!-- Test02_POST -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
